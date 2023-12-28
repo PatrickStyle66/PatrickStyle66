@@ -42,3 +42,11 @@ Python é maravilhoso! |
   <a href = "mailto:jpha@ic.ufal.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href = "https://www.linkedin.com/in/jonathas-patrick-12a611231/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+  ### Alguns repositórios interessantes:
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickStyle66&repo=Map_Coloring_Problem_With_Genetic_Algorithm&theme=dark)](https://github.com/PatrickStyle66/Map_Coloring_Problem_With_Genetic_Algorithm) <img align="top" height="105" width ="200"  src ="https://github.com/PatrickStyle66/PowerBI-Relatorio-de-Vendas/assets/30088774/66abb590-d250-4bb5-aad7-2c6da7c9e478">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickStyle66&repo=HomographyWithFlags&theme=dark)](https://github.com/PatrickStyle66/HomographyWithFlags)  <img height="175" width ="175"  src ="https://github.com/PatrickStyle66/PowerBI-Relatorio-de-Vendas/assets/30088774/5ba3fe43-87b0-4395-96d8-6acecd67486c">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickStyle66&repo=Logic-Runner&theme=dark)](https://github.com/PatrickStyle66/Logic-Runner) <img height="100" width ="200"  src ="https://www.pygame.org/docs/_images/pygame_logo.png"><img alt="Python" height="90" width ="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
